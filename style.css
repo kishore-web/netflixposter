@@ -55,7 +55,7 @@ header {
 }
 .addto:hover {
   box-shadow: 0 0 15px 3px #ede570;
-  border: none;
+  border: 1.5px solid white;
 }
 footer {
   background-color: rgb(190, 4, 4);
